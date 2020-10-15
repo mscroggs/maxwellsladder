@@ -1,1 +1,96 @@
-HELLO
+<svg width="15cm" height="35cm"
+version="1.1" viewBox="0 0 30 70" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<g class="line">
+ <path d="M 9,1 29,1" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 9,21 29,21" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 9,41 29,41" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 9,61 29,61" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+
+<g class="line">
+ <path d="M 1,9 21,9" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 1,29 21,29" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 1,49 21,49" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 1,69 21,69" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+
+<g class="line">
+ <path d="M 1,69 1,49" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 1,49 1,29" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 1,29 1,9" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+
+<g class="line">
+ <path d="M 21,69 21,49" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 21,49 21,29" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 21,29 21,9" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+
+<g class="line">
+ <path d="M 29,61 29,41" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 29,41 29,21" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 29,21 29,1" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+
+<g class="line">
+ <path d="M 9,61 9,41" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 9,41 9,21" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 9,21 9,1" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+
+<g class="line">
+ <path d="M 9,1 1,9" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 9,21 1,29" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 9,41 1,49" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 9,61 1,69" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+
+<g class="line">
+ <path d="M 29,1 21,9" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 29,21 21,29" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 29,41 21,49" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g class="line">
+ <path d="M 29,61 21,69" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+
+</svg>
