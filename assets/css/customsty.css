@@ -2,3 +2,28 @@
 Maxwell's ladder
 */
 
+.socialicons {
+  position:absolute;
+  top:5px;
+  right:5px;
+  font-size:30px
+}
+
+.socialicons a,
+.socialicons a:link,
+.socialicons a:active,
+.socialicons a:visited,
+.socialicons a:hover {
+  padding-left:10px;
+}
+.socialicons a,
+.socialicons a:link,
+.socialicons a:active,
+.socialicons a:visited
+ {
+  color:white;
+}
+
+.socialicons a:hover {
+  color:#FF7A1A;
+}
