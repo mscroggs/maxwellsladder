@@ -1,0 +1,11 @@
+theme: jekyll-theme-slate
+site_favicon: favicon.ico
+title: Maxwell's ladder
+description: 
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
