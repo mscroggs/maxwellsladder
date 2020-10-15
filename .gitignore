@@ -1,1 +1,5 @@
 .*.swp
+_site/
+Gemfile
+Gemfile.lock
+Makefile

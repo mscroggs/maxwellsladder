@@ -27,3 +27,15 @@ Maxwell's ladder
 .socialicons a:hover {
   color:#FF7A1A;
 }
+
+.line path {
+  stroke: grey
+}
+
+.line:hover path {
+  stroke: red
+}
+
+svg#ladder {
+  height:80vh
+}
